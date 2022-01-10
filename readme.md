@@ -1,0 +1,1 @@
+Aplicacion web creada con NEXT.js, React.js,Bootstrap 5, Node.js, Express.js.
