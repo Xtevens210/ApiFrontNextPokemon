@@ -8,10 +8,9 @@ export default function Container(props) {
         <div>
             <Head>
                 <title>Pokemon Byte4Bit</title>
-                <link rel='stylesheet' href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/lumen/bootstrap.min.css"/>
             </Head>
             <NavBar/>
-            <div className="container p-4">
+            <div>
                 {props.children}
             </div>
         </div>
