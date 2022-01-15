@@ -45,7 +45,9 @@ export default function Pokemon(props) {
 
                 <div className="container-pagina-pokemon">
                     <img src={props.pokemones.image} className="imagen-pagina-pokemon" alt={props.pokemones.name}/>
-                <div className="cuerpo-pagina-pokemon">
+                    <div className="cuerpo-pagina-pokemon">
+                        <img className="pokeball-uno" src="https://res.cloudinary.com/diqp92rza/image/upload/v1642214599/Multimedia/pokemon-g4422d60ac_640_i16nlp.png" alt="-pokeball"/>
+                        <img className="pokeball-dos" src="https://res.cloudinary.com/diqp92rza/image/upload/v1642214599/Multimedia/pokemon-g4422d60ac_640_i16nlp.png" alt="-pokeball"/>
                         <h2 className="titulo-tarjeta-pokemon"><i>{props.pokemones.name}</i></h2>
                         <ul className="ul-tarjeta-pokemon">
                             <li className=""><h2 className="">Tipo: {props.pokemones.tipo}</h2></li>

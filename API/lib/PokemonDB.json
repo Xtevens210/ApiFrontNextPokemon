@@ -138,5 +138,215 @@
     "id": 20,
     "tipo": "normal",
     "habilidad": "fuga"
+  },
+  {
+    "name": "spearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+    "id": 21,
+    "tipo": "voldaro",
+    "habilidad": "vista lince"
+  },
+  {
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/22.png",
+    "id": 22,
+    "tipo": "volador",
+    "habilidad": "vista lince"
+  },
+  {
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+    "id": 23,
+    "tipo": "veneno",
+    "habilidad": "intimidacion"
+  },
+  {
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/24.png",
+    "id": 24,
+    "tipo": "veneno",
+    "habilidad": "intimidacion"
+  },
+  {
+    "name": "pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+    "id": 25,
+    "tipo": "electrico",
+    "habilidad": "electricidad estatica"
+  },
+  {
+    "name": "raichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+    "id": 26,
+    "tipo": "electrico",
+    "habilidad": "electricidad estatica"
+  },
+  {
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+    "id": 27,
+    "tipo": "tierra",
+    "habilidad": "velo arena"
+  },
+  {
+    "name": "sandslash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/28.png",
+    "id": 28,
+    "tipo": "tierra",
+    "habilidad": "velo arena"
+  },
+  {
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/29.png",
+    "id": 29,
+    "tipo": "veneno",
+    "habilidad": "punto toxico"
+  },
+  {
+    "name": "nidorina",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/30.png",
+    "id": 30,
+    "tipo": "veneno",
+    "habilidad": "punto toxico"
+  },
+  {
+    "name": "nidoqueen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/31.png",
+    "id": 31,
+    "tipo": "veneno",
+    "habilidad": "punto toxico"
+  },
+  {
+    "name": "nidoran-m",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/32.png",
+    "id": 32,
+    "tipo": "veneno",
+    "habilidad": "punto toxico"
+  },
+  {
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/33.png",
+    "id": 33,
+    "tipo": "veneno",
+    "habilidad": "rivalidad"
+  },
+  {
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/34.png",
+    "id": 34,
+    "tipo": "veneno",
+    "habilidad": "rivalidad"
+  },
+  {
+    "name": "clefairy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/35.png",
+    "id": 35,
+    "tipo": "hada",
+    "habilidad": "muro magico"
+  },
+  {
+    "name": "clefable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/36.png",
+    "id": 36,
+    "tipo": "hada",
+    "habilidad": "muro magico"
+  },
+  {
+    "name": "vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+    "id": 37,
+    "tipo": "fuego",
+    "habilidad": "absorbe fuego"
+  },
+  {
+    "name": "ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/38.png",
+    "id": 38,
+    "tipo": "fuego",
+    "habilidad": "absorbe fuego"
+  },
+  {
+    "name": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+    "id": 39,
+    "tipo": "hada",
+    "habilidad": "gran encanto"
+  },
+  {
+    "name": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/40.png",
+    "id": 40,
+    "tipo": "hada",
+    "habilidad": "gran encanto"
+  },
+  {
+    "name": "zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/41.png",
+    "id": 41,
+    "tipo": "volador",
+    "habilidad": "foco interno"
+  },
+  {
+    "name": "golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/42.png",
+    "id": 42,
+    "tipo": "volador",
+    "habilidad": "foco interno"
+  },
+  {
+    "name": "oddish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/43.png",
+    "id": 43,
+    "tipo": "planta",
+    "habilidad": "clorofila"
+  },
+  {
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/44.png",
+    "id": 44,
+    "tipo": "planta",
+    "habilidad": "clorofila"
+  },
+  {
+    "name": "vileplume",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/45.png",
+    "id": 45,
+    "tipo": "planta",
+    "habilidad": "clorofila"
+  },
+  {
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/46.png",
+    "id": 46,
+    "tipo": "bicho",
+    "habilidad": "piel seca"
+  },
+  {
+    "name": "parasect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/47.png",
+    "id": 47,
+    "tipo": "bicho",
+    "habilidad": "piel seca"
+  },
+  {
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/48.png",
+    "id": 48,
+    "tipo": "bicho",
+    "habilidad": "cromolente"
+  },
+  {
+    "name": "venomoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/49.png",
+    "id": 49,
+    "tipo": "bicho",
+    "habilidad": "cromolente"
+  },
+  {
+    "name": "diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+    "id": 50,
+    "tipo": "tierra",
+    "habilidad": "velo arena"
   }
 ]
